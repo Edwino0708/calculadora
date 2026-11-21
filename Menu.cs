@@ -3,6 +3,10 @@ namespace Calculator;
 /// <summary>
 /// A menu option: its name, its symbol and the method that calculates it.
 /// </summary>
+/// 
+/////probando algo nuevo.
+/////probando algo nuevo.
+/////probando algo nuevo.
 public record MenuOption(string Name, string Symbol, Func<double, double, double> Calculate);
 
 public static class Menu
