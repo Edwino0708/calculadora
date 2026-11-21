@@ -3,10 +3,6 @@ namespace Calculator;
 /// <summary>
 /// Main loop: shows the menu, reads the user's choice and runs it.
 /// </summary>
-
-///Probando.
-public class CalculatorApp
-{
     private readonly History history = new();
 
     public void Run()
