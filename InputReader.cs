@@ -1,5 +1,7 @@
 using System.Globalization;
 
+
+//conflito.
 namespace Calculator;
 
 /// <summary>
