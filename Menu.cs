@@ -5,6 +5,8 @@ namespace Calculator;
 /// </summary>
 /// 
 /////probando algo nuevo.
+/////probando algo nuevo.
+/////probando algo nuevo.
 public record MenuOption(string Name, string Symbol, Func<double, double, double> Calculate);
 
 public static class Menu

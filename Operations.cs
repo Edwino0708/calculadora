@@ -4,6 +4,7 @@ namespace Calculator;
 /// Math operations used by the calculator.
 /// </summary>
 /////probando algo nuevo.
+/////probando algo nuevo.
 public static class Operations
 {
     public static double Add(double a, double b) => a + b;
